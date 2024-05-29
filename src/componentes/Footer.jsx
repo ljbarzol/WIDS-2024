@@ -2,7 +2,7 @@
 
 const Footer = () => {
     return (
-        <div>
+        <div className="border">
             <p>Footer</p>
         </div>
     );

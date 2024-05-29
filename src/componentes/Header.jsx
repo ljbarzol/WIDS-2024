@@ -2,7 +2,7 @@
 
 const Header = () => {
     return (
-        <div className="flex justify-between px-10 py-5">
+        <div className="flex justify-between px-10 py-5 border">
             <div>
                 <p>Logo</p>
             </div>
